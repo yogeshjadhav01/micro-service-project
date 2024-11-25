@@ -1,6 +1,6 @@
 spring:
   application:
-    name: COFIG_DEFAULT
+    name: USERSERVICE
   eureka:
     instance:
       prefer-ip-address: true
